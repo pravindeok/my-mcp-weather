@@ -102,7 +102,11 @@ pages/
 > Add screenshots of:
 >
 > * UI input box
+> * <img width="819" height="443" alt="image" src="https://github.com/user-attachments/assets/c2994f92-4300-43f3-ae47-c70cadb337a6" />
+
 > * LLM response + raw weather
+> * <img width="768" height="287" alt="image" src="https://github.com/user-attachments/assets/bbf4906d-9dbd-40b9-be7d-0bf541e5f8cf" />
+
 > * Dev logs
 
 ---
