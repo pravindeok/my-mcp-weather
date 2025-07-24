@@ -34,7 +34,7 @@ You can ask questions like:
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/weather-mcp-llm.git
+git clone https://github.com/pravindeo/weather-mcp-llm.git
 cd weather-mcp-llm
 ````
 
